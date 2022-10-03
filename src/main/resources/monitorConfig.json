@@ -1,0 +1,7 @@
+{"multicastAddress": "224.50.50.50",
+  "multicastPort" : "60360",
+  "httpsUnicastPort" : "61360",
+  "snmpUnicastPort" : "62360",
+  "clientPort" : "64321",
+  "AESKey" : "xA0IKtbGfWr50NXt69D7+w=="
+}
